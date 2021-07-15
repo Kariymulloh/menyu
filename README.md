@@ -1,2 +1,0 @@
-# menyu
-Yangicha menyulik sayt
